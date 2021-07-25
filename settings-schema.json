@@ -1,0 +1,88 @@
+{
+   "section-general" : {
+		"type" : "section",
+		"description" : "Key Bindings"
+	},
+   "screen1": {
+      "type" : "keybinding",
+      "default" : "<Super>1",
+      "description" : "Snap to area1"
+   },
+   "screen2": {
+      "type" : "keybinding",
+      "default" : "<Super>2",
+      "description" : "Snap to area2"
+   },
+   "screen3": {
+      "type" : "keybinding",
+      "default" : "<Super>3",
+      "description" : "Snap to area3"
+   },
+   "screen4": {
+      "type" : "keybinding",
+      "default" : "<Super>4",
+      "description" : "Snap to area4"
+   },
+   "screen5": {
+      "type" : "keybinding",
+      "default" : "<Super>5",
+      "description" : "Snap to area5"
+   },
+   "screen6": {
+      "type" : "keybinding",
+      "default" : "<Super>6",
+      "description" : "Snap to area6"
+   },
+   "screen7": {
+      "type" : "keybinding",
+      "default" : "<Super>7",
+      "description" : "Snap to area7"
+   },
+   "screen8": {
+      "type" : "keybinding",
+      "default" : "<Super>8",
+      "description" : "Snap to area8"
+   },
+   "screen9": {
+      "type" : "keybinding",
+      "default" : "<Super>9",
+      "description" : "Snap to area9"
+   },
+
+   "screenLeft": {
+      "type" : "keybinding",
+      "default" : "<Super>Left",
+      "description" : "Move Left"
+   },
+   "screenRight": {
+      "type" : "keybinding",
+      "default" : "<Super>Right",
+      "description" : "Move Right"
+   },
+   "screenUp": {
+      "type" : "keybinding",
+      "default" : "<Super>Up",
+      "description" : "Move Up"
+   },
+   "screenDown": {
+      "type" : "keybinding",
+      "default" : "<Super>Down",
+      "description" : "Move Down"
+   },
+
+   "snapToPlan": {
+      "type" : "keybinding",
+      "default" : "<Super>1::<Super>Control_L",
+      "description" : "Snap to plan"
+   },
+   "snapToGrid": {
+      "type" : "keybinding",
+      "default" : "<Super>2::<Super>Shift_L",
+      "description" : "Snap to grid"
+   },
+   "swapCurrentBlockFocus": {
+      "type" : "keybinding",
+      "default" : "<Super>Tab",
+      "description" : "Swap focus on windows in current block"
+   }
+}

@@ -1,0 +1,16 @@
+{
+    "cinnamon-version": [
+        "3.6",
+        "3.8",
+        "4.0",
+        "4.2",
+        "4.4",
+        "4.6"
+    ],
+    "uuid": "gridder@termina",
+    "name": "Gridder",
+    "description": "Better window management",
+    "version": "1.0.0",
+    "url": "https://github.com/",
+    "author": "dean"
+}
